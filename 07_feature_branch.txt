@@ -1,1 +1,1 @@
-Branch usada para criar ou corrigir funcionalidades do sistema.
+Branch temporária usada para criar ou corrigir funcionalidades do sistema.
